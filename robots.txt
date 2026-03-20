@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Allow: /data/
+Allow: /assets/
+Allow: /blog/
+Disallow: /admin.html
+
+User-agent: Googlebot
+Allow: /
+Allow: /data/
+Allow: /assets/
+
+Sitemap: https://www.ehliyetusta.com/sitemap.xml
