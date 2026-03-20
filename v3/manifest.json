@@ -1,0 +1,12 @@
+{
+  "name": "EhliyetUsta – Online Ehliyet Kursu",
+  "short_name": "EhliyetUsta",
+  "description": "Türkiye'nin en kapsamlı ücretsiz online ehliyet hazırlık platformu",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a6fd4",
+  "icons": [{"src":"assets/favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}],
+  "categories": ["education"],
+  "lang": "tr"
+}
